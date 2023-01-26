@@ -38,6 +38,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "currency_text_input_formatter",
+      "rootUri": "file:///home/rafael/.pub-cache/hosted/pub.dev/currency_text_input_formatter-2.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "fake_async",
       "rootUri": "file:///home/rafael/.pub-cache/hosted/pub.dev/fake_async-1.3.1",
       "packageUri": "lib/",
@@ -60,6 +66,12 @@
       "rootUri": "file:///home/rafael/Documents/dev/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "2.19"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///home/rafael/.pub-cache/hosted/pub.dev/intl-0.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "js",
@@ -128,6 +140,18 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "syncfusion_flutter_core",
+      "rootUri": "file:///home/rafael/.pub-cache/hosted/pub.dev/syncfusion_flutter_core-20.4.44",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "syncfusion_flutter_gauges",
+      "rootUri": "file:///home/rafael/.pub-cache/hosted/pub.dev/syncfusion_flutter_gauges-20.4.44",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "term_glyph",
       "rootUri": "file:///home/rafael/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
       "packageUri": "lib/",
@@ -152,7 +176,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-01-26T00:38:41.547627Z",
+  "generated": "2023-01-26T00:46:38.808996Z",
   "generator": "pub",
   "generatorVersion": "3.0.0-151.0.dev"
 }

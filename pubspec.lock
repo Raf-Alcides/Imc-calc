@@ -49,6 +49,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.5"
+  currency_text_input_formatter:
+    dependency: "direct main"
+    description:
+      name: currency_text_input_formatter
+      sha256: c7ceefbfda7d279c489fcc00b4515795ae1e5657968bfd32b4129a6488558e95
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.8"
   fake_async:
     dependency: transitive
     description:
@@ -75,6 +83,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  intl:
+    dependency: transitive
+    description:
+      name: intl
+      sha256: "910f85bce16fb5c6f614e117efa303e85a1731bb0081edf3604a2ae6e9a3cc91"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.17.0"
   js:
     dependency: transitive
     description:
@@ -160,6 +176,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
+  syncfusion_flutter_core:
+    dependency: transitive
+    description:
+      name: syncfusion_flutter_core
+      sha256: "66529f3f102c6501a75811e8d931a1908ad9865ea4d3416c40ac05cf62fdcd44"
+      url: "https://pub.dev"
+    source: hosted
+    version: "20.4.44"
+  syncfusion_flutter_gauges:
+    dependency: "direct main"
+    description:
+      name: syncfusion_flutter_gauges
+      sha256: "3d4b5dfdcf87fe260137697caa5158403c78126a834b1bccc4f8c1ae21eafb88"
+      url: "https://pub.dev"
+    source: hosted
+    version: "20.4.44"
   term_glyph:
     dependency: transitive
     description:
